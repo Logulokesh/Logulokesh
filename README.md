@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### 🐍 Contribution Snake
-
-![GitHub Snake Light](https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+--><!-- GitHub Snake Light and Dark Mode Support -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
+</picture>
