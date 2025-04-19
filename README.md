@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
