@@ -1,3 +1,29 @@
+<div align="center">
+  <table>
+    <tr>
+      <td width="150" align="center">
+        <img src="2.png" width="150" alt="Thiruvalluvar" />
+      </td>
+      <td style="padding: 0 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+          <div style="text-align: left; flex: 1;">
+            <h3 style="margin: 0;">எனைத்தானும் நல்லவை கற்றார் பிறர்க்கு<br>
+            அனைத்ததும் ஆற்றல் அரிது.</h3>
+            <p style="margin: 10px 0;"><i>Even if one has learned all good things,<br>
+            It is rare to see them use that knowledge for the benefit of others.</i></p>
+          </div>
+          <div style="text-align: right; flex-shrink: 0; margin-left: 20px;">
+            <p style="margin: 0;"><strong>— Thirukkural 467<br>Chapter: Learning (கற்கை)</strong></p>
+          </div>
+        </div>
+      </td>
+      <td width="150" align="center">
+        <img src="1.png" width="150" alt="Thiruvalluvar" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Hi there 👋
 
 <!--
