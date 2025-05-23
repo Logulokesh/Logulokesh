@@ -13,7 +13,7 @@
             the method of execution, and the ability to accomplish difficult tasks.</i></p>
           </div>
           <div style="text-align: right; flex-shrink: 0; margin-left: 20px;">
-            <p style="margin: 0;"><strong>— Thirukkural 632<br>Chapter: Ministers (அமைச்சு)</strong></p>
+            <p style="margin: 0;"><strong>— Thirukkural 631<br>Chapter: Ministers (அமைச்சு)</strong></p>
           </div>
         </div>
       </td>
