@@ -1,10 +1,10 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="150" align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td width="150" align="center" style="border: none;">
         <img src="2.png" width="150" alt="Thiruvalluvar" />
       </td>
-      <td style="padding: 0 20px;">
+      <td style="padding: 0 20px; border: none;">
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="text-align: left; flex: 1;">
             <h3 style="margin: 0;">கருவியும் காலமும் செய்கையும் செய்யும்<br>
@@ -13,11 +13,11 @@
             the method of execution, and the ability to accomplish difficult tasks.</i></p>
           </div>
           <div style="text-align: right; flex-shrink: 0; margin-left: 20px;">
-            <p style="margin: 0;"><strong>— Thirukkural 631<br>Chapter: Ministers (அமைச்சு)</strong></p>
+            <p style="margin: 0;"><strong>— Thirukkural 632<br>Chapter: Ministers (அமைச்சு)</strong></p>
           </div>
         </div>
       </td>
-      <td width="150" align="center">
+      <td width="150" align="center" style="border: none;">
         <img src="1.png" width="150" alt="Thiruvalluvar" />
       </td>
     </tr>
