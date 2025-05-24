@@ -40,19 +40,7 @@ I host a self-managed playground at [`logu.au`](https://logu.au ), where I exper
 | Prometheus   | prometheus.logu.au   | Metrics Collection |
 | Metabase     | metabase.logu.au     | BI & Data Visualization |
 
-🔧 All services are containerized using Docker and orchestrated on a VM under my custom domain.
-
----
-## 🎓 Education
-
-- **Master of Computer Applications (MCA)**  
-  Tamil Nadu Open University (TNOU), Chennai, India – *2007–2010*
-
-- **Bachelor of Computer Science (BCA)**  
-  Indira Gandhi College of Arts & Science, Pondicherry – *2004–2007*
-
-- **MBA (International Business)**  
-  Pondicherry University – *2007–2011*
+🔧 All services are containerized using Docker and orchestrated on a VM under my custom domain in Oracle Cloud
 
 ---
 
@@ -103,10 +91,8 @@ Feel free to connect or collaborate if you're working in:
 - Financial Crime Detection (AML, Fraud)
 - Modern Data Architecture (Data Mesh, Lakehouses)
 - AI/ML & GenAI in Banking
-- Cloud-Native Data Engineering
+- Cloud-Native AI/ML Engineering
 
-- 🖥️ [LinkedIn](#) *(Update with your profile)*
-- 🐦 [Twitter/X](#) *(Optional)*
 - 📨 Email: [dlogulokesh@gmail.com](mailto:dlogulokesh@gmail.com)
 
 ---
