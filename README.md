@@ -25,6 +25,7 @@
 </div>
 
 ## Hi there 👋
+👨‍💻 ML & GenAI engineer in financial crime. I solve real-world problems by spotting small gaps and building smart, practical solutions.
 
 <!--
 **Logulokesh/Logulokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
