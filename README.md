@@ -17,19 +17,100 @@
 ## Hi there 👋
 👨‍💻 ML & GenAI engineer in financial crime. I solve real-world problems by spotting small gaps and building smart, practical solutions.
 
+🔗 [Homepage](https://logu.au ) | 📚 [Lab & Projects](https://lab.logu.au ) | 📨 dlogulokesh@gmail.com
 
-**Logulokesh/Logulokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Playground & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I host a self-managed playground at [`logu.au`](https://logu.au ), where I experiment with the modern data stack and cloud-native tools:
+
+| Tool         | Subdomain            | Use Case |
+|--------------|----------------------|----------|
+| Airbyte      | airbyte.logu.au      | ELT Pipelines |
+| Spark        | spark.logu.au        | Big Data Processing |
+| Portainer    | portainer.logu.au    | Docker Management |
+| Vault        | vault.logu.au        | Secrets Management |
+| Airflow      | airflow.logu.au      | Workflow Automation |
+| Nginx        | nginx.logu.au        | Reverse Proxy / Web Server |
+| Kafka        | kafka.logu.au        | Streaming Platform |
+| MinIO        | minio.logu.au        | Object Storage (S3 Compatible) |
+| Grafana      | grafana.logu.au      | Monitoring & Dashboards |
+| Trino        | trino.logu.au        | Query Across Data Sources |
+| Prometheus   | prometheus.logu.au   | Metrics Collection |
+| Metabase     | metabase.logu.au     | BI & Data Visualization |
+
+🔧 All services are containerized using Docker and orchestrated on a VM under my custom domain.
+
+---
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)**  
+  Tamil Nadu Open University (TNOU), Chennai, India – *2007–2010*
+
+- **Bachelor of Computer Science (BCA)**  
+  Indira Gandhi College of Arts & Science, Pondicherry – *2004–2007*
+
+- **MBA (International Business)**  
+  Pondicherry University – *2007–2011*
+
+---
+
+## 🏆 Certifications
+
+- **GCP Professional Cloud Architect**  
+- **GCP Professional Machine Learning Engineer**  
+- **GCP Professional Data Engineer**  
+- **GCP Professional Cloud Security Engineer**  
+- **GCP Professional Cloud Database Engineer**  
+- **GCP Cloud Digital Leader**  
+- **IBM WebSphere Application Server v6.1 Core Administration**  
+- **Oracle 10g Certified Associate**  
+- **DB2 8.1 Foundation Family Administration**
+
+---
+
+## 🧠 What I’m Learning Now
+
+- Exploring **GenAI-powered investigation assistants** for financial crime detection.
+- Fine-tuning **LLMs**, experimenting with **RAG pipelines**, and prompt engineering.
+- Enhancing **observability in ML models** and detecting concept drift in production.
+- Building **self-hosted LLMs** using **Ollama, Llama.cpp, and HuggingFace Transformers**.
+- Strengthening **data mesh principles** and improving **metadata management**.
+
+---
+
+## 🛠 Skills
+
+- **Cloud Platforms**: AWS, GCP, Oracle Cloud
+- **Programming Languages**: Python, Java, SQL
+- **Data Warehousing**: BigQuery, Redshift, Snowflake, PostgreSQL
+- **Data Pipelines**: Apache Airflow, Google Cloud Composer, Airbyte
+- **Big Data Technologies**: Spark, Kafka, Hadoop, Dataflow
+- **Data Modeling & Governance**: DBT, Dataplex
+- **Containerization**: Docker, Kubernetes
+- **Security & Infrastructure**: HashiCorp Vault, Cloud KMS
+- **Monitoring & Visualization**: Grafana, Prometheus, Metabase
+- **Query Engines**: Trino
+- **Web Servers**: Nginx, Apache
+- **Object Storage**: MinIO, AWS S3, GCS
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect or collaborate if you're working in:
+- Financial Crime Detection (AML, Fraud)
+- Modern Data Architecture (Data Mesh, Lakehouses)
+- AI/ML & GenAI in Banking
+- Cloud-Native Data Engineering
+
+- 🖥️ [LinkedIn](#) *(Update with your profile)*
+- 🐦 [Twitter/X](#) *(Optional)*
+- 📨 Email: [dlogulokesh@gmail.com](mailto:dlogulokesh@gmail.com)
+
+---
+
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
