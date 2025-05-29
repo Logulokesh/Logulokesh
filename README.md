@@ -16,8 +16,9 @@
 
 ## 1. Identify the Challenge → 2. Engineer the Approach → 3. Implement the Outcome 👋
 👨‍💻 ML & GenAI engineer in financial crime. I solve real-world problems by spotting small gaps and building smart, practical solutions.
-
-🔗 [Homepage](https://logu.au ) | 📚 [Lab & Projects](https://lab.logu.au ) | 📨 dlogulokesh@gmail.com
+<div align="center">
+  <img src="home.png" alt="Bottom Image" width="50%" />
+</div>
 
 ---
 
