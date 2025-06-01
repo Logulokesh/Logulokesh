@@ -1,4 +1,3 @@
-# ML & GenAI Enthusiast 
 <!-- Profile Images -->
 <div align="center">
   <img src="name1.png" alt="Profile Header" width="25%" />
