@@ -115,18 +115,24 @@ flowchart LR
 
 ## 🛠 Skills
 
-- **Cloud Platforms**: AWS, GCP, Oracle Cloud
-- **Programming Languages**: Python, Java, SQL
-- **Data Warehousing**: BigQuery, Redshift, Snowflake, PostgreSQL
-- **Data Pipelines**: Apache Airflow, Google Cloud Composer, Airbyte
-- **Big Data Technologies**: Spark, Kafka, Hadoop, Dataflow
-- **Data Modeling & Governance**: DBT, Dataplex
-- **Containerization**: Docker, Kubernetes
-- **Security & Infrastructure**: HashiCorp Vault, Cloud KMS
-- **Monitoring & Visualization**: Grafana, Prometheus, Metabase
-- **Query Engines**: Trino
-- **Web Servers**: Nginx, Apache
-- **Object Storage**: MinIO, AWS S3, GCS
+- **Cloud Platforms**: AWS, GCP, Oracle Cloud  
+- **Programming Languages**: Python, Java, SQL  
+- **Data Warehousing**: BigQuery, Redshift, Snowflake, PostgreSQL  
+- **Data Pipelines**: Apache Airflow, Google Cloud Composer, Airbyte  
+- **Big Data Technologies**: Spark, Kafka, Hadoop, Dataflow  
+- **Data Modeling & Governance**: DBT, Dataplex  
+- **Containerization**: Docker, Kubernetes  
+- **Security & Infrastructure**: HashiCorp Vault, Cloud KMS  
+- **Monitoring & Visualization**: Grafana, Prometheus, Metabase  
+- **Query Engines**: Trino  
+- **Web Servers**: Nginx, Apache  
+- **Object Storage**: MinIO, AWS S3, GCS  
+- **AI/ML Frameworks**: LangChain, LlamaIndex, LangGraph, CrewAI  
+- **LLM & Model Serving**: Ollama, Hugging Face Transformers, OpenAI API  
+- **Vector Databases**: Chroma, Pinecone, Weaviate  
+- **ML Platforms**: MLflow, Weights & Biases, TensorFlow, PyTorch  
+- **Workflow Automation**: n8n, Zapier, AutoGen  
+- **AI Agents & Orchestration**: CrewAI, LangGraph, AutoGPT  
 
 ---
 
