@@ -21,27 +21,72 @@
 </div>
 
 ---
+# 🤖 AI-Powered Modern Data Stack Home Lab
 
-## 🔧 Playground & Tools
+A comprehensive self-managed playground for experimenting with AI/ML workflows, modern data engineering, and cloud-native technologies hosted on Oracle Cloud Infrastructure (OCI). Designed specifically for AI project development and machine learning experimentation.
 
-I host a self-managed playground at [`logu.au`](https://logu.au ), where I experiment with the modern data stack and cloud-native tools:
+## 🏗️ Architecture Overview
 
-| Tool         | Subdomain            | Use Case |
-|--------------|----------------------|----------|
-| Airbyte      | airbyte.logu.au      | ELT Pipelines |
-| Spark        | spark.logu.au        | Big Data Processing |
-| Portainer    | portainer.logu.au    | Docker Management |
-| Vault        | vault.logu.au        | Secrets Management |
-| Airflow      | airflow.logu.au      | Workflow Automation |
-| Nginx        | nginx.logu.au        | Reverse Proxy / Web Server |
-| Kafka        | kafka.logu.au        | Streaming Platform |
-| MinIO        | minio.logu.au        | Object Storage (S3 Compatible) |
-| Grafana      | grafana.logu.au      | Monitoring & Dashboards |
-| Trino        | trino.logu.au        | Query Across Data Sources |
-| Prometheus   | prometheus.logu.au   | Metrics Collection |
-| Metabase     | metabase.logu.au     | BI & Data Visualization |
+This home lab demonstrates a complete AI-ready data stack with containerized services orchestrated across Oracle Cloud Infrastructure, showcasing real-world machine learning pipelines, data engineering patterns, and AI model deployment strategies.
 
-🔧 All services are containerized using Docker and orchestrated on a VM under my custom domain in Oracle Cloud
+```mermaid
+---
+config:
+  layout: elk
+---
+flowchart LR
+ subgraph ARM["🧠 ARM Instance - AI Stack"]
+        AI["🤖 Ollama LLM<br>ollama.logu.au<br>Local LLM Inference"]
+        NPM["🔀 Nginx Proxy Manager<br>nginx.logu.au<br>AI Gateway &amp; SSL"]
+        Data["📊 Data Platform<br>airbyte.logu.au, kafka.logu.au<br>minio.logu.au, trino.logu.au, metabase.logu.au"]
+        AutoML["🧪 ML Orchestration<br>airflow.logu.au, n8n.logu.au<br>Pipeline &amp; Automation"]
+        Monitor["📡 Monitoring<br>grafana.logu.au, prometheus.logu.au<br>uptimekuma.logu.au, langfuse.logu.au"]
+        Tools["🛠️ Dev Tools<br>portainer.logu.au<br>music.logu.au (Jellyfin)"]
+  end
+ subgraph X86["💻 x86 Instance"]
+        Vault["🔐 HashiCorp Vault<br>vault.logu.au<br>Secrets &amp; API Keys"]
+  end
+    OCI["☁️ Oracle Cloud Infrastructure"] --> NPM
+    NPM --> AI & Data & AutoML & Monitor & Tools & Vault
+    AI --> Data
+    AutoML --> AI & Data
+    Monitor --> AI
+    Vault --> ARM
+
+```
+
+## 📊 Services Overview
+
+| Service | Subdomain | Category | AI/ML Use Case | Architecture |
+|---------|-----------|----------|----------------|--------------|
+| **Airbyte** | airbyte.logu.au | Data Integration | ML Data Ingestion & Feature Engineering | ARM |
+| **Apache Spark** | spark.logu.au | ML Processing | Distributed ML Training & Data Processing | ARM |
+| **Portainer** | portainer.logu.au | Container Management | ML Container Orchestration & Monitoring | ARM |
+| **HashiCorp Vault** | vault.logu.au | Security | AI Model Secrets & API Key Management | x86 |
+| **Apache Airflow** | airflow.logu.au | ML Orchestration | ML Pipeline Automation & Model Training | ARM |
+| **Nginx Proxy Manager** | nginx.logu.au | Infrastructure | AI Service Gateway & SSL Management | ARM |
+| **Apache Kafka** | kafka.logu.au | Data Streaming | Real-time ML Feature Streaming | ARM |
+| **MinIO** | minio.logu.au | ML Storage | AI Model Storage & Training Data Lake | ARM |
+| **Grafana** | grafana.logu.au | ML Monitoring | Model Performance & Training Metrics | ARM |
+| **Trino** | trino.logu.au | ML Analytics | Feature Store Queries & ML Data Analysis | ARM |
+| **Prometheus** | prometheus.logu.au | ML Metrics | AI Model Monitoring & Performance Tracking | ARM |
+| **Metabase** | metabase.logu.au | ML Business Intelligence | ML Experiment Tracking & Model Analytics | ARM |
+| **Jellyfin** | music.logu.au | Media | AI-Enhanced Media Processing & Streaming | ARM |
+| **n8n** | n8n.logu.au | AI Automation | AI Workflow Automation & Model Integration | ARM |
+| **Uptime Kuma** | uptimekuma.logu.au | AI Monitoring | ML Service Health & Model Endpoint Monitoring | ARM |
+| **Ollama** | ollama.logu.au | **AI/ML Core** | **Local LLM Hosting & AI Model Inference** | ARM |
+
+## 🏛️ Architecture Highlights
+
+**AI-First Infrastructure**: ARM instance optimized for ML workloads with Ollama LLM server, Spark ML processing, and AI-ready data pipelines.
+
+**Complete MLOps Pipeline**: From data ingestion (Airbyte) → ML processing (Spark) → model storage (MinIO) → inference (Ollama) → monitoring (Grafana/Prometheus).
+
+**Production ML Environment**: Containerized AI services with automated model deployment, comprehensive ML monitoring, and secure API key management via Vault.
+
+---
+
+*This AI-focused home lab represents a production-like environment for learning machine learning engineering, MLOps practices, and AI application development in a self-managed, cost-effective setup on Oracle Cloud Infrastructure.*
 
 ---
 
@@ -53,9 +98,8 @@ I host a self-managed playground at [`logu.au`](https://logu.au ), where I exper
 - **GCP Professional Cloud Security Engineer**  
 - **GCP Professional Cloud Database Engineer**  
 - **GCP Cloud Digital Leader**  
-- **IBM WebSphere Application Server v6.1 Core Administration**  
-- **Oracle 10g Certified Associate**  
-- **DB2 8.1 Foundation Family Administration**
+- **Oracle Certified Associate**  
+
 
 ---
 
