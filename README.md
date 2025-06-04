@@ -18,7 +18,7 @@
 
 ## **1. Identify the Challenge → 2. Engineer the Approach → 3. Implement the Outcome** 🚀
 
-**Machine Learning & GenAI Engineer** specializing in financial crime detection. I bridge the gap between complex data challenges and practical AI solutions, transforming regulatory requirements into intelligent, scalable systems.
+**Machine Learning & GenAI Engineer** specializing in BANKING. I bridge the gap between complex data challenges and practical AI solutions, transforming regulatory requirements into intelligent, scalable systems.
 
 <div align="center">
   <img src="home.png" alt="Tech Stack Visualization" width="50%" />
@@ -168,8 +168,6 @@ n8n • Zapier • AutoGen • AutoGPT • Google Cloud Composer
 ---
 
 ## 🤝 **Let's Connect & Collaborate**
-
-I'm actively seeking opportunities to collaborate on:
 
 **🔍 Financial Crime Technology**
 - Anti-Money Laundering (AML) system optimization
