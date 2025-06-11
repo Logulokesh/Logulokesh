@@ -1,4 +1,4 @@
-<!-- Profile Images -->
+<!-- Profile Header -->
 <div align="center">
   <img src="name1.png" alt="Profile Header" width="25%" />
 </div>
@@ -16,9 +16,16 @@
   </picture>
 </div>
 
-## **1. Identify the Challenge → 2. Engineer the Approach → 3. Implement the Outcome** 🚀
+---
 
-**Machine Learning & GenAI Engineer** specializing in BANKING. I bridge the gap between complex data challenges and practical AI solutions, transforming regulatory requirements into intelligent, scalable systems.
+## 🎯 **My Problem-Solving Philosophy: From Enterprise Scale to Personal Solutions**
+
+### **Identify Challenge → Engineer Approach → Implement Outcome** 🚀
+
+**Machine Learning & GenAI Engineer** specializing in **BANKING**  
+*Bridging complex data challenges with practical AI solutions, transforming regulatory requirements into intelligent, scalable systems.*
+
+---
 
 <div align="center">
   <img src="home.png" alt="Tech Stack Visualization" width="50%" />
@@ -28,10 +35,7 @@
 
 # 🏠 **Self-Hosted AI & Data Engineering Playground**
 
-*My personal self-hosted playground for AI/ML experimentation, modern data engineering, and cloud-native technology development on Oracle Cloud Infrastructure - designed for continuous learning and hands-on exploration.*
-
-## 🎯 **Mission Statement**
-This is my dedicated learning environment where I build and experiment with production-grade AI systems. It serves as my personal laboratory for exploring end-to-end machine learning workflows, from data ingestion to model deployment, with particular focus on financial crime detection use cases and GenAI applications. Every service and integration here represents a learning journey and practical experimentation with cutting-edge technologies.
+*Personal Oracle Cloud Infrastructure laboratory for AI/ML experimentation, modern data engineering, and cloud-native technology development - designed for continuous learning and hands-on exploration with production-grade systems.*
 
 ## 🏗️ **System Architecture**
 
@@ -63,40 +67,46 @@ flowchart LR
     Vault -.-> ARM
 ```
 
-## 🧩 **Service Ecosystem**
 
-### **🤖 AI & Machine Learning Core**
-| Service | Domain | Purpose | Architecture |
-|---------|---------|----------|--------------|
-| **Ollama** | ollama.logu.au | Local LLM hosting & inference | ARM |
-| **Apache Spark** | spark.logu.au | Distributed ML processing | ARM |
-| **Apache Airflow** | airflow.logu.au | ML pipeline orchestration | ARM |
-| **Langfuse** | langfuse.logu.au | LLM observability & tracing | ARM |
+---
 
-### **📊 Data Engineering Platform**
-| Service | Domain | Purpose | Architecture |
-|---------|---------|----------|--------------|
-| **Airbyte** | airbyte.logu.au | Data integration & ETL | ARM |
-| **Apache Kafka** | kafka.logu.au | Real-time data streaming | ARM |
-| **MinIO** | minio.logu.au | Object storage & data lake | ARM |
-| **Trino** | trino.logu.au | Distributed query engine | ARM |
-| **Metabase** | metabase.logu.au | Business intelligence & analytics | ARM |
+## 🧩 **Complete Service Ecosystem**
 
-### **🔧 Infrastructure & Operations**
-| Service | Domain | Purpose | Architecture |
-|---------|---------|----------|--------------|
-| **Nginx Proxy Manager** | nginx.logu.au | Reverse proxy & SSL management | ARM |
-| **HashiCorp Vault** | vault.logu.au | Secrets & credential management | x86 |
-| **Portainer** | portainer.logu.au | Container orchestration UI | ARM |
-| **Grafana** | grafana.logu.au | Metrics visualization & dashboards | ARM |
-| **Prometheus** | prometheus.logu.au | Metrics collection & alerting | ARM |
-| **Uptime Kuma** | uptimekuma.logu.au | Service health monitoring | ARM |
+### 🤖 **AI & Machine Learning Core**
+| Service | Domain | Purpose | Status |
+|---------|---------|----------|--------|
+| **Ollama** | `ollama.logu.au` | Local LLM hosting & inference | 🟢 |
+| **Apache Spark** | `spark.logu.au` | Distributed ML processing | 🟢 |
+| **Apache Airflow** | `airflow.logu.au` | ML pipeline orchestration | 🟢 |
+| **Langfuse** | `langfuse.logu.au` | LLM observability & tracing | 🟢 |
 
-### **🎨 Automation & Media**
-| Service | Domain | Purpose | Architecture |
-|---------|---------|----------|--------------|
-| **n8n** | n8n.logu.au | Workflow automation & integration | ARM |
-| **Jellyfin** | music.logu.au | Media server & streaming | ARM |
+### 📊 **Data Engineering Platform**
+| Service | Domain | Purpose | Status |
+|---------|---------|----------|--------|
+| **Airbyte** | `airbyte.logu.au` | Data integration & ETL | 🟢 |
+| **Apache Kafka** | `kafka.logu.au` | Real-time data streaming | 🟢 |
+| **MinIO** | `minio.logu.au` | Object storage & data lake | 🟢 |
+| **Trino** | `trino.logu.au` | Distributed query engine | 🟢 |
+| **Metabase** | `metabase.logu.au` | Business intelligence & analytics | 🟢 |
+
+### 🔧 **Infrastructure & Operations**
+| Service | Domain | Purpose | Status |
+|---------|---------|----------|--------|
+| **Nginx Proxy Manager** | `nginx.logu.au` | Reverse proxy & SSL management | 🟢 |
+| **HashiCorp Vault** | `vault.logu.au` | Secrets & credential management | 🟢 |
+| **Portainer** | `portainer.logu.au` | Container orchestration UI | 🟢 |
+| **Grafana** | `grafana.logu.au` | Metrics visualization & dashboards | 🟢 |
+| **Prometheus** | `prometheus.logu.au` | Metrics collection & alerting | 🟢 |
+| **Uptime Kuma** | `uptimekuma.logu.au` | Service health monitoring | 🟢 |
+| **Traccar** | `traccar.logu.au` | GPS tracking & fleet management | 🟢 |
+
+### 🎨 **Automation & Media**
+| Service | Domain | Purpose | Status |
+|---------|---------|----------|--------|
+| **n8n** | `n8n.logu.au` | Workflow automation & integration | 🟢 |
+| **Jellyfin** | `music.logu.au` | Media server & streaming | 🟢 |
+
+---
 
 ## 🌟 **Key Architectural Decisions**
 
@@ -108,34 +118,74 @@ flowchart LR
 
 ---
 
-## 🏅 **Professional Certifications**
+## 🚀 **Featured Projects: KinAI Ecosystem**
+
+*A comprehensive suite of privacy-first AI applications demonstrating end-to-end ML engineering expertise*
+
+### 🏠 **Smart Home & Automation**
+**[KinAI-Vision](https://github.com/Logulokesh/KinAI-Vision)** - Real-time activity detection for culturally aware home automation
+- Local processing with YOLOv8, InsightFace, and LangChain
+- Scalable microservices architecture for privacy-first experiences
+- Cultural context awareness for personalized automation
+
+**[KinAI-GeoPulse](https://github.com/Logulokesh/KinAI-GeoPulse)** - Privacy-first family tracking with real-time geofencing
+- Local processing via Traccar Server and FastAPI integration
+- Daily movement summaries and intelligent distance calculations
+- Real-time location monitoring with privacy controls
+
+### 🏥 **Healthcare & Financial Management**
+**[KinAI-CareVault](https://github.com/Logulokesh/KinAI-CareVault)** - Secure health and financial management platform
+- Powered by Gemma 3/MedGemma 3 for medical intelligence
+- Intelligent document processing and family health tracking
+- Local workflows ensuring compliance and data sovereignty
+
+### 🔐 **Security & Surveillance**
+**[KinAI-NexPatrol](https://github.com/Logulokesh/KinAI-NexPatrol)** - AI-powered surveillance with AML-inspired risk scoring
+- Advanced face recognition using YOLOv8 and InsightFace
+- Local processing for enhanced security and privacy
+- Precise threat detection algorithms for secure environments
+
+### 🎓 **Education & Learning**
+**[KinAI-ScholarKit](https://github.com/Logulokesh/KinAI-ScholarKit)** - Offline, curriculum-aligned educational activity generator
+- RAG pipeline with FAISS and NetworkX for personalized learning paths
+- Privacy-focused design with comprehensive PDF export capabilities
+- Intelligent content generation aligned with educational standards
+
+**[KinAI-Mentor](https://github.com/Logulokesh/kinai-mentor)** - Voice-driven, offline AI tutor for accessible education
+- Multi-modal interaction capabilities aligned with Victorian Curriculum
+- Local processing ensuring complete privacy and data control
+- Inclusive design for diverse learning needs and accessibility
+
+---
+
+## 📜 **Professional Certifications**
 
 **Google Cloud Platform Excellence**
-- Professional Cloud Architect
-- Professional Machine Learning Engineer  
-- Professional Data Engineer
-- Professional Cloud Security Engineer
-- Professional Cloud Database Engineer
-- Cloud Digital Leader
+- 🥇 Professional Cloud Architect
+- 🥇 Professional Machine Learning Engineer  
+- 🥇 Professional Data Engineer
+- 🥇 Professional Cloud Security Engineer
+- 🥇 Professional Cloud Database Engineer
+- 🥇 Cloud Digital Leader
 
 **Oracle Cloud Infrastructure**
-- Oracle Certified Associate
+- 🥇 Oracle Certified Associate
 
 ---
 
 ## 🧠 **Current Learning Focus**
 
-**GenAI & Financial Crime Detection**
+**🔬 GenAI & Financial Crime Detection**
 - Developing intelligent investigation assistants using large language models
 - Implementing retrieval-augmented generation (RAG) for compliance documentation
 - Advanced prompt engineering techniques for financial analysis
 
-**MLOps & Model Governance**
+**🔄 MLOps & Model Governance**
 - Self-hosted LLM deployment strategies using Ollama and Llama.cpp
 - ML model observability and concept drift detection in production
 - Data mesh architecture implementation with robust metadata management
 
-**Advanced AI Infrastructure**
+**⚡ Advanced AI Infrastructure**
 - Vector database optimization for similarity search in financial transactions
 - Real-time model serving with low-latency inference requirements
 - Automated model retraining pipelines with continuous validation
@@ -144,26 +194,26 @@ flowchart LR
 
 ## 🛠️ **Technical Expertise**
 
-### **☁️ Cloud & Infrastructure**
-AWS • GCP • Oracle Cloud Infrastructure • Docker • Kubernetes • HashiCorp Vault
+### **Cloud & Infrastructure**
+`AWS` • `GCP` • `Oracle Cloud Infrastructure` • `Docker` • `Kubernetes` • `HashiCorp Vault`
 
-### **💻 Programming & Development**
-Python • Java • SQL • Apache Spark • Apache Kafka • Apache Hadoop
+### **Programming & Development**
+`Python` • `Java` • `SQL` • `Apache Spark` • `Apache Kafka` • `Apache Hadoop`
 
-### **🗄️ Data & Analytics**
-BigQuery • Redshift • Snowflake • PostgreSQL • DBT • Apache Airflow • Airbyte • Trino
+### **Data & Analytics**
+`BigQuery` • `Redshift` • `Snowflake` • `PostgreSQL` • `DBT` • `Apache Airflow` • `Airbyte` • `Trino`
 
-### **🤖 AI/ML & GenAI**
-LangChain • LlamaIndex • LangGraph • CrewAI • Ollama • Hugging Face Transformers • OpenAI API
+### **AI/ML & GenAI**
+`LangChain` • `LlamaIndex` • `LangGraph` • `CrewAI` • `Ollama` • `Hugging Face` • `OpenAI API`
 
-### **📊 ML Platforms & Tools**
-MLflow • Weights & Biases • TensorFlow • PyTorch • Chroma • Pinecone • Weaviate
+### **ML Platforms & Tools**
+`MLflow` • `Weights & Biases` • `TensorFlow` • `PyTorch` • `Chroma` • `Pinecone` • `Weaviate`
 
-### **📈 Monitoring & Visualization**
-Grafana • Prometheus • Metabase • Langfuse • MinIO • Nginx
+### **Monitoring & Visualization**
+`Grafana` • `Prometheus` • `Metabase` • `Langfuse` • `MinIO` • `Nginx`
 
-### **🔄 Automation & Orchestration**
-n8n • Zapier • AutoGen • AutoGPT • Google Cloud Composer
+### **Automation & Orchestration**
+`n8n` • `Zapier` • `AutoGen` • `AutoGPT` • `Google Cloud Composer`
 
 ---
 
@@ -191,25 +241,19 @@ n8n • Zapier • AutoGen • AutoGPT • Google Cloud Composer
 ## 💭 **Philosophy & Inspiration**
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td width="150" align="center" style="border: none;">
+  <table>
+    <tr>
+      <td width="150" align="center">
         <img src="2.png" width="150" alt="Thiruvalluvar Portrait" />
       </td>
-      <td style="padding: 0 20px; border: none;">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-          <div style="text-align: left; flex: 1;">
-            <h3 style="margin: 0;">கருவியும் காலமும் செய்கையும் செய்யும்<br>
-            அருவினையும் மாண்டது அமைச்சு.</h3>
-            <p style="margin: 10px 0;"><i>"Excellence emerges when one masters the tools, timing,<br>
-            methodology, and the wisdom to tackle the impossible."</i></p>
-          </div>
-          <div style="text-align: right; flex-shrink: 0; margin-left: 20px;">
-            <p style="margin: 0;"><strong>— Thirukkural 632<br>Chapter: Ministers (அமைச்சு)</strong></p>
-          </div>
-        </div>
+      <td align="center" style="padding: 0 20px;">
+        <h3>கருவியும் காலமும் செய்கையும் செய்யும்<br>
+        அருவினையும் மாண்டது அமைச்சு.</h3>
+        <p><i>"Excellence emerges when one masters the tools, timing,<br>
+        methodology, and the wisdom to tackle the impossible."</i></p>
+        <p><strong>— Thirukkural 632, Chapter: Ministers (அமைச்சு)</strong></p>
       </td>
-      <td width="150" align="center" style="border: none;">
+      <td width="150" align="center">
         <img src="1.png" width="150" alt="Thiruvalluvar Statue" />
       </td>
     </tr>
