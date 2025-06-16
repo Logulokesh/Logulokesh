@@ -7,17 +7,30 @@
   <img src="Logu1.gif" alt="Professional Profile" width="50%" />
 </div>
 
+## 💭 **Philosophy & Inspiration**
 
-
-
-<!-- GitHub Activity Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <table>
+    <tr>
+      <td width="150" align="center">
+        <img src="2.png" width="150" alt="Thiruvalluvar Portrait" />
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <h3>கருவியும் காலமும் செய்கையும் செய்யும்<br>
+        அருவினையும் மாண்டது அமைச்சு.</h3>
+        <p><i>"Excellence emerges when one masters the tools, timing,<br>
+        methodology, and the wisdom to tackle the impossible."</i></p>
+        <p><strong>— Thirukkural 632, Chapter: Ministers (அமைச்சு)</strong></p>
+      </td>
+      <td width="150" align="center">
+        <img src="1.png" width="150" alt="Thiruvalluvar Statue" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+> This ancient wisdom guides my approach to modern technology challenges—combining the right tools, perfect timing, methodical execution, and the courage to solve seemingly impossible problems.
+
 
 ---
 
@@ -241,26 +254,13 @@ flowchart LR
 
 ---
 
-## 💭 **Philosophy & Inspiration**
-
+<!-- GitHub Activity Snake -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="150" align="center">
-        <img src="2.png" width="150" alt="Thiruvalluvar Portrait" />
-      </td>
-      <td align="center" style="padding: 0 20px;">
-        <h3>கருவியும் காலமும் செய்கையும் செய்யும்<br>
-        அருவினையும் மாண்டது அமைச்சு.</h3>
-        <p><i>"Excellence emerges when one masters the tools, timing,<br>
-        methodology, and the wisdom to tackle the impossible."</i></p>
-        <p><strong>— Thirukkural 632, Chapter: Ministers (அமைச்சு)</strong></p>
-      </td>
-      <td width="150" align="center">
-        <img src="1.png" width="150" alt="Thiruvalluvar Statue" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-*This ancient wisdom guides my approach to modern technology challenges—combining the right tools, perfect timing, methodical execution, and the courage to solve seemingly impossible problems.*
+
