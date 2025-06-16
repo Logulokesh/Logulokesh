@@ -1,11 +1,14 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="name1.png" alt="Profile Header" width="25%" />
+  <img src="name2.png" alt="Professional Profile" width="80%" />
 </div>
 
 <div align="center">
-  <img src="name2.png" alt="Professional Profile" width="50%" />
+  <img src="Logu1.gif" alt="Professional Profile" width="50%" />
 </div>
+
+
+
 
 <!-- GitHub Activity Snake -->
 <div align="center">
