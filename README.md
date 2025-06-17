@@ -20,7 +20,7 @@
         அருவினையும் மாண்டது அமைச்சு.</h3>
         <p><i>"Excellence emerges when one masters the tools, timing,<br>
         methodology, and the wisdom to tackle the impossible."</i></p>
-        <p><strong>— Thirukkural 632, Chapter: Ministers (அமைச்சு)</strong></p>
+        <p><strong>— Thirukkural 631, Chapter: Ministers (அமைச்சு)</strong></p>
       </td>
       <td width="150" align="center">
         <img src="1.png" width="150" alt="Thiruvalluvar Statue" />
