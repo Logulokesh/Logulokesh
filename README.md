@@ -55,36 +55,12 @@
 
 ## 🏗️ **System Architecture**
 
-```mermaid
----
-config:
-  layout: elk
----
-flowchart LR
-    subgraph ARM["🧠 ARM Instance - AI Powerhouse"]
-        AI["🤖 Ollama LLM Server<br/>📍 ollama.logu.au<br/>Local Model Inference"]
-        NPM["🌐 Nginx Proxy Manager<br/>📍 nginx.logu.au<br/>Gateway & SSL Termination"]
-        Data["📊 Data Engineering Suite<br/>📍 airbyte | kafka | minio<br/>📍 trino | metabase"]
-        ML["🧪 MLOps Platform<br/>📍 airflow | n8n<br/>Pipeline Orchestration"]
-        Monitor["📡 Observability Stack<br/>📍 grafana | prometheus<br/>📍 uptimekuma | langfuse"]
-        Tools["🛠️ Development Tools<br/>📍 portainer<br/>📍 music (Jellyfin)"]
-    end
-    
-    subgraph X86["💻 x86 Instance - Security Core"]
-        Vault["🔐 HashiCorp Vault<br/>📍 vault.logu.au<br/>Secrets Management"]
-    end
-    
-    OCI["☁️ Oracle Cloud Infrastructure"] --> NPM
-    NPM --> AI & Data & ML & Monitor & Tools
-    NPM --> Vault
-    AI <--> Data
-    ML <--> AI & Data
-    Monitor --> AI & Data & ML
-    Vault -.-> ARM
-```
+<div align="center">
+  <img src="arc.gif" alt="Professional Profile" width="80%" />
+</div>
 
 
----
+
 
 ## 🧩 **Complete Service Ecosystem**
 
