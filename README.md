@@ -31,8 +31,8 @@
       <td align="center" style="padding: 0 30px;">
         <h2>🏛️ Ancient Wisdom ⚡ Modern Innovation 🚀</h2>
         <blockquote>
-          <h3>கருவியும் காலமும் செய்கையும் செய்யும்<br>
-          அருवினையும் மாண்டது அமைச்சு.</h3>
+          <h3>கருவியும் காலமும் செய்கையும் செய்யும் <br>
+          அருவினையும் மாண்டது அமைச்சு.</h3>
           <p><i>"Excellence emerges when one masters the tools, timing,<br>
           methodology, and the wisdom to tackle the impossible."</i></p>
           <p><strong>— Thirukkural 631 | Chapter: Ministers (அமைச்சு)</strong></p>
