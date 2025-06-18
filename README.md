@@ -29,7 +29,7 @@
         <img src="2.png" width="160" alt="Thiruvalluvar Portrait" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
       </td>
       <td align="center" style="padding: 0 30px;">
-        <h2>🏛️ **Ancient Wisdom → Modern Innovation**</h2>
+        <h2>🏛️ Ancient Wisdom ⚡ Modern Innovation 🚀</h2>
         <blockquote>
           <h3>கருவியும் காலமும் செய்கையும் செய்யும்<br>
           அருवினையும் மாண்டது அமைச்சு.</h3>
