@@ -488,15 +488,6 @@
   
   <br><br>
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=logulokesh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logulokesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-  
-  <br><br>
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=logulokesh&theme=radical&hide_border=true" alt="GitHub Streak" width="50%">
-  
 </div>
 
 ---
