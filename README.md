@@ -16,6 +16,7 @@
   <!-- Tech Stack Badges -->
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Generative%20AI-FF4785?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
@@ -90,10 +91,33 @@
 
 <br/>
 
-**Stack:** `GenAI` + `FinTech` + `Enterprise Architecture`  
-**Status:** `Shipping intelligent compliance solutions`  
+**Stack:** `Vertex AI` + `GenAI` + `FinTech` + `Enterprise Architecture`  
+**Status:** `Shipping intelligent compliance solutions at enterprise scale`  
 
-**Mission:** *Transforming complex financial data challenges into intelligent, scalable AI solutions* 🎯
+**Mission:** *Transforming complex financial data challenges into intelligent, scalable AI solutions using Google Cloud's enterprise ML platform* 🎯
+
+### 🏭 **Enterprise AI Production Experience**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🧠-Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud" alt="Vertex AI" /><br/>
+  <strong>Production ML<br/>Pipelines</strong>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🔄-MLOps-FF6F00?style=for-the-badge&logo=tensorflow" alt="MLOps" /><br/>
+  <strong>Automated Model<br/>Lifecycle</strong>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/📊-BigQuery_ML-4285F4?style=for-the-badge&logo=google-cloud" alt="BigQuery ML" /><br/>
+  <strong>Scalable Feature<br/>Engineering</strong>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/🛡️-AI_Platform-45B7D1?style=for-the-badge&logo=google-cloud" alt="AI Platform" /><br/>
+  <strong>Enterprise<br/>Governance</strong>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -103,12 +127,13 @@
 
 ### 🎯 **Core Expertise**
 - 🏦 **Banking & Finance**
-- 🤖 **AI/ML Engineering**  
-- ☁️ **Cloud Architecture**
-- 🔐 **Compliance & Security**
-- 📊 **Data Engineering**
-- ⚡ **Real-time Systems**
+- 🧠 **Vertex AI & ML Engineering**  
+- ☁️ **GCP Enterprise Architecture**
+- 🔐 **AI Governance & Compliance**
+- 📊 **BigQuery ML & Data Engineering**
+- ⚡ **Real-time ML Inference**
 - 🛡️ **AML & Fraud Detection**
+- 🤖 **Production MLOps Pipelines**
 
 ### 📈 **Impact Metrics**
 ![Projects](https://img.shields.io/badge/Active_Projects-18+-success?style=flat-square)  
@@ -130,19 +155,20 @@
 <td width="30%" align="left" valign="top">
 
 ### 🛠️ **Tech Stack Focus**
+- 🧠 **Vertex AI & AutoML**
 - 🐍 **Python & FastAPI**
+- 📊 **BigQuery ML & SQL**
 - 🦙 **Ollama & Local LLMs**
 - ☁️ **GCP & Oracle Cloud**
 - 🐳 **Docker & Kubernetes**
-- 📊 **Kafka & Spark**
-- 🔍 **Vector Databases**
+- 🔄 **Kubeflow & ML Pipelines**
 - 🌊 **Apache Airflow**
 
 ### 🎯 **Current Focus**
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Production-4285F4?style=flat-square)  
 ![GenAI](https://img.shields.io/badge/GenAI-FinTech-FF4785?style=flat-square)  
-![MLOps](https://img.shields.io/badge/MLOps-Production-FF6F00?style=flat-square)  
-![Compliance](https://img.shields.io/badge/AML-Compliance-45B7D1?style=flat-square)  
-![Privacy](https://img.shields.io/badge/Privacy-First_AI-green?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-Enterprise-FF6F00?style=flat-square)  
+![Compliance](https://img.shields.io/badge/AI-Governance-45B7D1?style=flat-square)
 
 </td>
 </tr>
@@ -154,7 +180,94 @@
 
 ---
 
-## 🏗️ **MY AI LABORATORY: SELF-HOSTED INFRASTRUCTURE**
+## 🏭 **ENTERPRISE AI EXPERIENCE: VERTEX AI & GCP**
+
+<div align="center">
+  
+  ### 🎯 *Production-Scale Machine Learning Engineering*
+  **Building & deploying enterprise AI solutions that handle billions of transactions**
+  
+  <img src="https://img.shields.io/badge/Enterprise-Production_Ready-success?style=for-the-badge&logo=google-cloud" alt="Enterprise Status" />
+  <img src="https://img.shields.io/badge/Scale-Billions_of_Records-blue?style=for-the-badge&logo=databricks" alt="Scale" />
+  <img src="https://img.shields.io/badge/Compliance-Financial_Grade-orange?style=for-the-badge&logo=shield" alt="Compliance" />
+  
+</div>
+
+### 🏗️ **VERTEX AI PRODUCTION IMPLEMENTATIONS**
+
+<div align="center">
+
+| 🎯 **Use Case** | 🛠️ **Vertex AI Service** | 📊 **Scale & Impact** | 🔧 **Technical Implementation** |
+|:---------------|:----------------------|:-------------------|:----------------------------|
+| **🕵️ AML Transaction Monitoring** | AutoML Tables + Custom Training | 50M+ daily transactions | BigQuery ML → Vertex AI pipelines with real-time scoring |
+| **🎯 Customer Risk Scoring** | Vertex AI Predictions + Explanations | 2M+ customer profiles | Feature engineering in BigQuery, deployed via Vertex Endpoints |
+| **📄 Document Intelligence** | Document AI + Custom Models | 100K+ docs/month processed | Multi-modal AI with OCR + NLP for compliance documentation |
+| **🤖 Conversational Banking** | Dialogflow CX + Vertex AI Search | 24/7 customer support | RAG implementation with enterprise knowledge bases |
+
+</div>
+
+### ⚙️ **ENTERPRISE MLOPS ARCHITECTURE**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+#### 🔄 **ML Pipeline Orchestration**
+- **Vertex AI Pipelines** for end-to-end ML workflows
+- **Kubeflow** integration for complex model training
+- **Apache Airflow** for data orchestration & scheduling
+- **Cloud Build** for CI/CD automation of ML models
+
+#### 📊 **Data Engineering at Scale**
+- **BigQuery ML** for feature engineering & model training
+- **Dataflow** for real-time stream processing (Apache Beam)
+- **Cloud Composer** for workflow orchestration
+- **Pub/Sub** for event-driven ML inference triggers
+
+#### 🛡️ **AI Governance & Security**
+- **Vertex AI Model Registry** for version control & lineage
+- **Cloud IAM** for fine-grained ML resource access
+- **Vertex AI Explanations** for model interpretability
+- **Data Loss Prevention API** for sensitive data handling
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+#### 🏭 **Production Deployment Stack**
+
+```mermaid
+graph TD
+    A[BigQuery Data Lake] --> B[Vertex AI Training]
+    B --> C[Model Registry]
+    C --> D[Vertex Endpoints]
+    D --> E[Real-time Serving]
+    E --> F[Monitoring & Alerts]
+    
+    G[Feature Store] --> B
+    H[CI/CD Pipeline] --> C
+    I[A/B Testing] --> D
+    
+    style A fill:#4285f4,stroke:#333,color:#fff
+    style B fill:#34a853,stroke:#333,color:#fff
+    style C fill:#fbbc04,stroke:#333,color:#fff
+    style D fill:#ea4335,stroke:#333,color:#fff
+```
+
+**Key Metrics:**
+- 🚀 **99.9%** model serving uptime
+- ⚡ **<100ms** inference latency
+- 📈 **Auto-scaling** 0-1000+ QPS
+- 🔍 **Real-time** model monitoring
+
+</td>
+</tr>
+</table>
+
+</div>
+
+# 🏗️ **MY AI LABORATORY: SELF-HOSTED INFRASTRUCTURE**
 
 <div align="center">
   
@@ -326,39 +439,55 @@
 <tr>
 <td align="center" width="33%">
 
-### 🔬 **GenAI & Financial Crime Detection**
-![GenAI](https://img.shields.io/badge/GenAI-Compliance-FF4785?style=flat-square&logo=openai)
+### 🔬 **Advanced Vertex AI & GenAI**
+![VertexAI](https://img.shields.io/badge/Vertex_AI-Advanced-4285F4?style=flat-square&logo=google-cloud)
 ```
-🤖 Intelligent investigation assistants with LLMs
-📚 RAG implementation for compliance documentation  
-🎯 Advanced prompt engineering for financial analysis
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 **MLOps & Model Governance**
-![MLOps](https://img.shields.io/badge/MLOps-Production-FF6F00?style=flat-square&logo=tensorflow)
-```
-🦙 Self-hosted LLM deployment with Ollama & Llama.cpp
-📊 ML model observability & concept drift detection
-🏗️ Data mesh architecture with robust metadata management
+🎯 Multi-modal AI applications with Gemini Pro
+🏗️ Custom training with Vertex AI Workbench
+📊 Advanced model monitoring and drift detection
+🔧 Vertex AI Pipelines for enterprise MLOps
 ```
 
 </td>
 <td align="center" width="33%">
 
-### ⚡ **Advanced AI Infrastructure**
-![Infrastructure](https://img.shields.io/badge/Infrastructure-Scaling-326CE5?style=flat-square&logo=kubernetes)
+### 🏢 **Enterprise AI Architecture**
+![Enterprise](https://img.shields.io/badge/Enterprise-AI_Governance-FF6F00?style=flat-square&logo=databricks)
 ```
-🔍 Vector database optimization for transaction similarity
-⚡ Real-time model serving with low-latency requirements
-🔄 Automated model retraining with continuous validation
+⚖️ Responsible AI framework implementation
+🛡️ Privacy-preserving ML techniques
+🔄 Federated learning for multi-party scenarios
+📋 Model governance and audit trails
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🔄 **Next-Gen MLOps**
+![MLOps](https://img.shields.io/badge/MLOps-Production-326CE5?style=flat-square&logo=kubernetes)
+```
+🚀 Real-time model serving at scale
+🔍 Advanced feature engineering and stores
+⚡ Edge AI deployment strategies
+🧪 Continuous ML experimentation platforms
 ```
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+  
+**🌟 Building the future of AI-powered financial technology, one innovation at a time 🌟**
+
+
+[![Email](https://img.shields.io/badge/Email-hello%40logu.au-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@logu.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/logulokesh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logulokesh)
 
 </div>
 
@@ -366,119 +495,91 @@
 
 ## 🛠️ **TECHNICAL ARSENAL**
 
-<div align="center">
+### ☁️ **Cloud & Infrastructure**
+<div align="left">
 
-### ☁️ **CLOUD & INFRASTRUCTURE**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
-### 💻 **PROGRAMMING & DEVELOPMENT**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+</div>
 
-### 📊 **DATA & ANALYTICS**
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+### 💻 **Programming & Development**
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+</div>
+
+### 📊 **Data & Analytics**
+<div align="left">
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
+
+</div>
 
 ### 🤖 **AI/ML & GenAI**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<div align="left">
 
-### 📈 **MONITORING & VISUALIZATION**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+### 📈 **Monitoring & Visualization**
+<div align="left">
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 **LET'S COLLABORATE & INNOVATE**
+## 🎯 **EXPERTISE & INNOVATION**
 
-<div align="center">
+<div align="left">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🔍 **FINANCIAL CRIME TECHNOLOGY**
-![FinCrime](https://img.shields.io/badge/FinCrime-AML_Solutions-FF6B6B?style=flat-square&logo=shield)
-```
-💰 Anti-Money Laundering (AML) system optimization
-🕵️ Fraud detection algorithm development  
-📋 Regulatory compliance automation
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🏗️ **MODERN DATA ARCHITECTURE**
-![DataArch](https://img.shields.io/badge/DataArch-Modern_Stack-4ECDC4?style=flat-square&logo=databricks)
-```
-🌐 Data mesh implementation strategies
-🏠 Lakehouse architecture design
-⚡ Real-time analytics platforms
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 **AI/ML IN BANKING**
-![AIBanking](https://img.shields.io/badge/AI_Banking-Innovation-45B7D1?style=flat-square&logo=tensorflow)
-```
-🧠 GenAI applications for financial services
-⚖️ ML model governance & risk management
-🛡️ Responsible AI implementation frameworks
-```
-
-</td>
-</tr>
-</table>
+| 🔍 **FINANCIAL CRIME TECHNOLOGY** | 🏗️ **MODERN DATA ARCHITECTURE** | 🤖 **AI/ML IN BANKING** |
+|:---:|:---:|:---:|
+| ![FinCrime](https://img.shields.io/badge/FinCrime-AML_Solutions-FF6B6B?style=flat-square&logo=shield&logoColor=white) | ![DataArch](https://img.shields.io/badge/DataArch-Modern_Stack-4ECDC4?style=flat-square&logo=databricks&logoColor=white) | ![AIBanking](https://img.shields.io/badge/AI_Banking-Innovation-45B7D1?style=flat-square&logo=tensorflow&logoColor=white) |
+| 💰 **Anti-Money Laundering (AML)** system optimization | 🌐 **Data mesh** implementation strategies | 🧠 **GenAI applications** for financial services |
+| 🕵️ **Fraud detection** algorithm development | 🏠 **Lakehouse architecture** design | ⚖️ **ML model governance** & risk management |
+| 📋 **Regulatory compliance** automation | ⚡ **Real-time analytics** platforms | 🛡️ **Responsible AI** implementation frameworks |
 
 </div>
 
 ---
 
-## 📬 **Let's Connect**
+## 🐍 **Contribution Activity**
 
 <div align="center">
-
-### 🌟 Ready to discuss AI, cloud architecture, or innovative side projects? 
-
-<a href="mailto:hello@logu.au">
-  <img src="https://img.shields.io/badge/Email-hello%40logu.au-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/logulokesh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/logulokesh">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<!-- GitHub Activity Visualization -->
-<div align="center">
-  <h2>🐍 Commit 📝 → Push ⏫ → Repeat 🔁</h2>
+  
+  **🔄 Commit 📝 → Push ⏫ → Repeat 🔁**
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake-dark.svg">
@@ -486,16 +587,28 @@
     <img alt="GitHub Contribution Snake Animation" src="https://github.com/Logulokesh/Logulokesh/blob/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   
-  <br><br>
-  
 </div>
 
 ---
 
+## 🤝 **Let's Connect & Collaborate**
+
 <div align="center">
-  
-  ### 🌟 **"Excellence emerges when one masters the tools, timing, methodology, and the wisdom to tackle the impossible."**
-  
-  <sub>🚀 **Building the future of AI, one algorithm at a time** 🚀</sub>
-  
+
+### 🌟 **Ready to discuss AI, cloud architecture, or innovative projects?**
+
+[![Email](https://img.shields.io/badge/📧_Email-hello%40logu.au-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@logu.au)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/logulokesh)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logulokesh)
+
+---
+
+### 💭 **Philosophy**
+
+> *"Excellence emerges when one masters the tools, timing, methodology, and the wisdom to tackle the impossible."*
+
+**🚀 Building tomorrow's financial technology with AI-powered innovation 🚀**
+
 </div>
+
+---
