@@ -233,7 +233,7 @@
 - **Data Loss Prevention API** for sensitive data handling
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
 #### 🏭 **Production Deployment Stack**
 
